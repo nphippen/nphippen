@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-nphippen-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nphippen@gmail.com)](mailto:nphippen@gmail.com)
 [![Strava Badge](https://img.shields.io/badge/-nphippen-FC4C02?style=flat&logo=Strava&logoColor=white&link=https://www.strava.com/athletes/27600)](https://www.strava.com/athletes/27600)
 
-You found my GitHub Profile page... I know it looks pretty lonley here...  I have been working on quite a few project on GitLab latley as my recent passion has been working in React Native and optimising DevOps in massive corporations.
+You found my GitHub Profile page... I know it looks pretty lonley here...  I have been working on quite a few projects on GitLab latley as my recent passion has been working in React Native and optimising DevOps in massive corporations.
 
 <h3>Most of my recent projects have used:</h3>
 <p>
