@@ -1,6 +1,5 @@
 # Neil Phippen 👋
-[![Repos Badge](https://badges.pufler.dev/repos/nphippen)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/nphippen)](https://badges.pufler.dev)
+
 [![Linkedin Badge](https://img.shields.io/badge/-nphippen-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nphippen/)](https://www.linkedin.com/in/nphippen/)
 [![Website Badge](https://img.shields.io/badge/-phippen.dev-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://phippen.dev)](https://phippen.dev)
 [![Gmail Badge](https://img.shields.io/badge/-nphippen-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nphippen@gmail.com)](mailto:nphippen@gmail.com)
