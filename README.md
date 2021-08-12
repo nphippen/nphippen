@@ -26,11 +26,11 @@ You found my GitHub Profile page... I know it looks pretty lonley here...  I hav
 ![Firebase](https://img.shields.io/badge/Firebase-4285F4?style=for-the-badge&logo=firebase&logoColor=orange)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Gatsby](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=gatsby&logoColor=white)
+![Gatsby](https://img.shields.io/badge/Gatsby-purple?style=for-the-badge&logo=gatsby&logoColor=white)
 ![D3](https://img.shields.io/badge/D3-red?style=for-the-badge&logo=d3.js&logoColor=white)
 
 ### Want to know more about me?
-![phippen.dev](https://phippen.dev)
+<a href='https://phippen.dev'> phippen.dev </a>
 
 ### Analytics
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=nphippen&show_icons=true&count_private=true&hide=stars&border_radius=15&theme=tokyonight)
