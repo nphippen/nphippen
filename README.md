@@ -1,7 +1,7 @@
 # Neil Phippen 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-nphippen-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nphippen/)](https://www.linkedin.com/in/nphippen/)
-[![Website Badge](https://img.shields.io/badge/-phippen.dev-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://phippen.dev)](https://phippen.dev)
+[![Website Badge](https://img.shields.io/badge/-phippen.dev-green?style=flat&logo=Google-Chrome&logoColor=white&link=https://phippen.dev)](https://phippen.dev)
 [![Gmail Badge](https://img.shields.io/badge/-nphippen-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nphippen@gmail.com)](mailto:nphippen@gmail.com)
 [![Strava Badge](https://img.shields.io/badge/-nphippen-FC4C02?style=flat&logo=Strava&logoColor=white&link=https://www.strava.com/athletes/27600)](https://www.strava.com/athletes/27600)
 
