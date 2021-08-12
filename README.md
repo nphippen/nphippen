@@ -22,7 +22,7 @@ You found my GitHub Profile page... I know it looks pretty lonley here...  I hav
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge)
-![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft-azurelogoColor=white)
+![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-4285F4?style=for-the-badge&logo=firebase&logoColor=orange)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
