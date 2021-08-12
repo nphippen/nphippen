@@ -29,5 +29,8 @@ You found my GitHub Profile page... I know it looks pretty lonley here...  I hav
 ![Gatsby](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=gatsby&logoColor=white)
 ![D3](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=d3.js&logoColor=white)
 
-<h3>Want to know more about me?</h3>
-<h3><a href="https://phippen.dev">phippen.dev</a></h3>
+### Want to know more about me?
+![phippen.dev](https://phippen.dev)
+
+### Analytics
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=nphippen&show_icons=true&count_private=true&hide=stars&border_radius=15&theme=tokyonight)
