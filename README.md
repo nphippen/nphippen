@@ -32,5 +32,3 @@ You found my GitHub Profile page... I know it looks pretty lonley here...  I hav
 ### Want to know more about me?
 <a href='https://phippen.dev'> phippen.dev </a>
 
-### Analytics
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=nphippen&show_icons=true&count_private=true&hide=stars&border_radius=15&theme=tokyonight)
